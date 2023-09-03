@@ -1,0 +1,40 @@
+html{
+
+
+    background-color: #333;
+    font-size: 33px;
+
+
+}
+
+button{
+
+    background-color: chartreuse;
+
+    color: rgb(0, 0, 0);
+
+    display: block;
+
+    margin: auto;
+
+}
+
+button:hover{
+
+    background-color: rgb(95, 190, 0);
+
+}
+
+video{
+
+    display: block;
+    margin: auto;
+
+}
+
+img{
+
+    display: block;
+    margin: auto;
+
+}
